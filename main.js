@@ -229,4 +229,4 @@ _quickTest()
 
 
  //Memberi Info Kepada Owner Apabila Bot Telah Online
-  conn.sendMessage('6281393190599@s.whatsapp.net', {text: 'Bot Online :)'})
+  conn.sendMessage('6289614412045@s.whatsapp.net', {text: 'Bot Online :)'})
