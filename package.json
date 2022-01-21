@@ -92,6 +92,7 @@
       "nhentai":"^2.1.1",
       "canvacord":"^5.2.3",
         "yargs": "^17.2.1",
-        "yt-search": "^2.10.2"
+        "yt-search": "^2.10.2",
+"pino": "^7.2.0"
     }
 }
